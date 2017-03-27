@@ -1,4 +1,4 @@
-> onejustone 的独立博客管理系统
+
 
 后台选择 Django (MVC框架),前端使用 Vue.js(MVVM 框架)渲染，总体架构 M(Django) + C(Django) + MVVM(Vue.js) = M + MVVM + C = MMVVMC
 
